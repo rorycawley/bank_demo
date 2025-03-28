@@ -5,6 +5,8 @@ https://www.youtube.com/watch?v=MECG5MPy_cc
 
 https://www.youtube.com/watch?v=jlRQBfQyQTU
 
+https://www.youtube.com/watch?v=lwVo8G_5li4
+
 # Use Cases
 
 The use cases layer contains the ‘application-specific business rules’ for the software. This is where every system use case is enclosed and implemented. Use cases help coordinate the way data flows to and from entities. It then instructs the entities that, to achieve the use case goals, they should make use of the Critical Business Rules.
