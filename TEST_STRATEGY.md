@@ -1,4 +1,4 @@
-Test behaviours.
+Test behaviours via Use Cases.
 
 https://www.youtube.com/watch?v=8l5TvRrQaFk 
 
