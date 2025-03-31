@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <PackageReference Include="FastEndpoints" Version="5.35.0" />
+    <PackageReference Include="SimpleInjector" Version="5.5.0" />
+    <PackageReference Include="SimpleInjector.Integration.AspNetCore" Version="5.5.0" />
   </ItemGroup>
 
   <PropertyGroup>
